@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Кошка">
+  <rect width="400" height="300" fill="#C9DDF5"/>
+  <circle cx="70" cy="64" r="30" fill="#fff" opacity=".8"/>
+  <path d="M110 150L98 52l78 44z" fill="#6E8280"/>
+  <path d="M290 150l12-98-78 44z" fill="#6E8280"/>
+  <path d="M120 128l-4-42 30 18z" fill="#F2B8B0"/><path d="M280 128l4-42-30 18z" fill="#F2B8B0"/>
+  <ellipse cx="200" cy="175" rx="98" ry="88" fill="#8FA3A0"/>
+  <path d="M182 100h36M174 112h52" stroke="#6E8280" stroke-width="6" stroke-linecap="round"/>
+  <ellipse cx="165" cy="170" rx="14" ry="18" fill="#F6E27A"/><ellipse cx="235" cy="170" rx="14" ry="18" fill="#F6E27A"/>
+  <ellipse cx="165" cy="170" rx="5" ry="14" fill="#1B2B25"/><ellipse cx="235" cy="170" rx="5" ry="14" fill="#1B2B25"/>
+  <path d="M190 205h20l-10 11z" fill="#E88B86"/>
+  <path d="M200 216c-4 12-16 14-24 7M200 216c4 12 16 14 24 7" stroke="#1B2B25" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M148 212l-60-8M148 224l-56 14M252 212l60-8M252 224l56 14" stroke="#F4F8F5" stroke-width="3" stroke-linecap="round"/>
+</svg>

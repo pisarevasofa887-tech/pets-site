@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Собака">
+  <rect width="400" height="300" fill="#FFE29A"/>
+  <circle cx="330" cy="60" r="34" fill="#FFC53D"/>
+  <path d="M120 120c-50 0-62 70-40 120 28-8 52-48 52-92z" fill="#7A4A25"/>
+  <path d="M280 120c50 0 62 70 40 120-28-8-52-48-52-92z" fill="#7A4A25"/>
+  <ellipse cx="200" cy="170" rx="95" ry="100" fill="#D99A5B"/>
+  <ellipse cx="200" cy="205" rx="50" ry="40" fill="#F6DFC2"/>
+  <circle cx="165" cy="150" r="11" fill="#1B2B25"/><circle cx="235" cy="150" r="11" fill="#1B2B25"/>
+  <circle cx="168" cy="146" r="3.5" fill="#fff"/><circle cx="238" cy="146" r="3.5" fill="#fff"/>
+  <ellipse cx="200" cy="190" rx="20" ry="14" fill="#1B2B25"/>
+  <path d="M200 203v18M180 226c12 10 28 10 40 0" stroke="#1B2B25" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M188 226c0 24 24 24 24 0z" fill="#FF6B5B"/>
+</svg>

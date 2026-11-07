@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Лапа к лапе — всё о домашних животных</title>
+    <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
+
+    <!-- Шрифты: Unbounded (заголовки) и Nunito Sans (текст) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;800&family=Unbounded:wght@500;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <!-- Шапка -->
+    <header class="header">
+        <div class="container header__container">
+            <a href="#" class="header__logo">
+                <img src="img/logo.svg" alt="" width="40" height="40">
+                Лапа к лапе
+            </a>
+            <nav class="header__nav">
+                <a href="#about" class="header__link">О нас</a>
+                <a href="#pets" class="header__link">Питомцы</a>
+                <a href="#care" class="header__link">Уход</a>
+                <a href="#adopt" class="header__link">Приют</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+
+        <!-- Секция 1. Главный экран -->
+        <section class="hero">
+            <div class="container hero__container">
+                <div class="hero__content">
+                    <h1 class="hero__title">Дом становится домом, когда в нём кто-то ждёт</h1>
+                    <p class="hero__text">Рассказываем, как выбрать питомца и сделать так, чтобы вам было хорошо вдвоём.</p>
+                    <a href="#pets" class="button button--green">Выбрать питомца</a>
+                </div>
+                <div class="hero__image">
+                    <img src="img/hero.svg" alt="Собака и кошка сидят рядом">
+                </div>
+            </div>
+        </section>
+
+        <!-- Секция 2. О нас -->
+        <section class="about" id="about">
+            <div class="container about__container">
+                <div class="about__image">
+                    <img src="img/about.svg" alt="Миска с кормом и следы лап">
+                </div>
+                <div class="about__content">
+                    <h2 class="title">Питомец — это член семьи</h2>
+                    <p class="about__text">Мы собрали информацию о кошках, собаках и кроликах: сколько времени они требуют и чем их кормить.</p>
+                    <p class="about__text">Если вы не уверены, кого выбрать, посмотрите раздел «Питомцы».</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Секция 3. Питомцы -->
+        <section class="pets" id="pets">
+            <div class="container">
+                <h2 class="title pets__title">С кем вам будет по пути</h2>
+                <div class="pets__list">
+
+                    <article class="card">
+                        <img src="img/pet-dog.svg" alt="Собака">
+                        <div class="card__content">
+                            <h3 class="card__title">Собака</h3>
+                            <p class="card__text">Преданный друг для активных людей. Нужны прогулки и внимание каждый день.</p>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <img src="img/pet-cat.svg" alt="Кошка">
+                        <div class="card__content">
+                            <h3 class="card__title">Кошка</h3>
+                            <p class="card__text">Самостоятельная и ласковая. Подойдёт тем, кто часто бывает на учёбе или работе.</p>
+                        </div>
+                    </article>
+
+                    <article class="card">
+                        <img src="img/pet-rabbit.svg" alt="Кролик">
+                        <div class="card__content">
+                            <h3 class="card__title">Кролик</h3>
+                            <p class="card__text">Тихий и любопытный. Ему нужны просторная клетка и сено каждый день.</p>
+                        </div>
+                    </article>
+
+                </div>
+            </div>
+        </section>
+
+        <!-- Секция 4. Уход -->
+        <section class="care" id="care">
+            <div class="container">
+                <h2 class="title care__title">Четыре правила ухода</h2>
+                <div class="care__list">
+                    <div class="tip">
+                        <h3 class="tip__title">Питание</h3>
+                        <p class="tip__text">Корм по возрасту и чистая вода всегда.</p>
+                    </div>
+                    <div class="tip">
+                        <h3 class="tip__title">Ветеринар</h3>
+                        <p class="tip__text">Прививки по графику и осмотр раз в год.</p>
+                    </div>
+                    <div class="tip">
+                        <h3 class="tip__title">Игры</h3>
+                        <p class="tip__text">Хотя бы полчаса в день играйте с питомцем.</p>
+                    </div>
+                    <div class="tip">
+                        <h3 class="tip__title">Свой уголок</h3>
+                        <p class="tip__text">Место для сна, где никто не потревожит.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Секция 5. Приют -->
+        <section class="adopt" id="adopt">
+            <div class="container">
+                <h2 class="title">В приютах тоже ждут свой дом</h2>
+                <p class="adopt__text">Многие животные в приютах уже привиты. Приходите знакомиться — выбор часто делает сам питомец.</p>
+                <a href="mailto:hello@lapa-k-lape.example" class="button button--yellow">Написать в приют</a>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Подвал -->
+    <footer class="footer">
+        <div class="container">
+            <p class="footer__text">© 2026 Лапа к лапе. Учебный проект.</p>
+        </div>
+    </footer>
+
+</body>
+
+</html>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 560" role="img" aria-label="Собака и кошка">
+  <path d="M60 300C40 160 170 40 330 50s270 90 255 240-130 240-290 235S80 440 60 300Z" fill="#FFC53D"/>
+  <circle cx="540" cy="90" r="26" fill="#FF6B5B"/>
+  <circle cx="90" cy="110" r="14" fill="#1E4D3A"/>
+  <g>
+    <ellipse cx="215" cy="470" rx="115" ry="60" fill="#B9763F"/>
+    <ellipse cx="215" cy="310" rx="120" ry="115" fill="#D99A5B"/>
+    <path d="M110 230c-60 10-75 90-50 150 30-10 60-60 60-110z" fill="#7A4A25"/>
+    <path d="M320 230c60 10 75 90 50 150-30-10-60-60-60-110z" fill="#7A4A25"/>
+    <ellipse cx="215" cy="345" rx="62" ry="50" fill="#F6DFC2"/>
+    <circle cx="170" cy="290" r="13" fill="#1B2B25"/>
+    <circle cx="260" cy="290" r="13" fill="#1B2B25"/>
+    <circle cx="174" cy="285" r="4" fill="#fff"/>
+    <circle cx="264" cy="285" r="4" fill="#fff"/>
+    <ellipse cx="215" cy="330" rx="24" ry="17" fill="#1B2B25"/>
+    <path d="M215 345v22M190 372c14 12 36 12 50 0" stroke="#1B2B25" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <path d="M200 372c0 30 30 30 30 0z" fill="#FF6B5B"/>
+  </g>
+  <g>
+    <ellipse cx="450" cy="480" rx="90" ry="52" fill="#8FA3A0"/>
+    <path d="M360 300l-12-110 85 50z" fill="#6E8280"/>
+    <path d="M540 300l12-110-85 50z" fill="#6E8280"/>
+    <path d="M370 270l-4-55 40 24z" fill="#F2B8B0"/>
+    <path d="M530 270l4-55-40 24z" fill="#F2B8B0"/>
+    <ellipse cx="450" cy="340" rx="100" ry="92" fill="#8FA3A0"/>
+    <path d="M430 262h40M420 275h60" stroke="#6E8280" stroke-width="6" stroke-linecap="round"/>
+    <ellipse cx="415" cy="335" rx="15" ry="19" fill="#F6E27A"/>
+    <ellipse cx="485" cy="335" rx="15" ry="19" fill="#F6E27A"/>
+    <ellipse cx="415" cy="335" rx="5" ry="15" fill="#1B2B25"/>
+    <ellipse cx="485" cy="335" rx="5" ry="15" fill="#1B2B25"/>
+    <path d="M440 372h20l-10 12z" fill="#E88B86"/>
+    <path d="M450 384c-4 14-18 16-26 8M450 384c4 14 18 16 26 8" stroke="#1B2B25" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <path d="M395 375l-55-8M395 388l-52 14M505 375l55-8M505 388l52 14" stroke="#F4F8F5" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>

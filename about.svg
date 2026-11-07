@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 480" role="img" aria-label="Миска, косточка и лапки">
+  <rect width="560" height="480" rx="40" fill="#CFE8DA"/>
+  <g fill="#1E4D3A" opacity=".18">
+    <ellipse cx="90" cy="110" rx="22" ry="18"/><circle cx="62" cy="80" r="9"/><circle cx="84" cy="66" r="9"/><circle cx="108" cy="66" r="9"/><circle cx="128" cy="80" r="9"/>
+    <ellipse cx="470" cy="400" rx="22" ry="18"/><circle cx="442" cy="370" r="9"/><circle cx="464" cy="356" r="9"/><circle cx="488" cy="356" r="9"/><circle cx="508" cy="370" r="9"/>
+  </g>
+  <path d="M120 270h320c0 90-60 150-160 150S120 360 120 270Z" fill="#FF6B5B"/>
+  <ellipse cx="280" cy="270" rx="160" ry="34" fill="#E0503F"/>
+  <ellipse cx="280" cy="266" rx="140" ry="24" fill="#8A4B2A"/>
+  <g fill="#D99A5B"><circle cx="220" cy="262" r="12"/><circle cx="270" cy="270" r="12"/><circle cx="320" cy="260" r="12"/><circle cx="350" cy="272" r="10"/><circle cx="245" cy="280" r="10"/></g>
+  <path d="M230 360c20 8 80 8 100 0" stroke="#fff" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <g transform="rotate(-25 400 150)" fill="#fff">
+    <rect x="320" y="136" width="160" height="30" rx="14"/>
+    <circle cx="326" cy="132" r="20"/><circle cx="326" cy="170" r="20"/>
+    <circle cx="474" cy="132" r="20"/><circle cx="474" cy="170" r="20"/>
+  </g>
+</svg>
